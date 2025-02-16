@@ -33,7 +33,7 @@
 </div>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,express,nodejs,ts,js,git,github,java,python, pytorch, numpy, pandas, scikit-learn&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,express,nodejs,ts,js,git,github,java,python,pytorch,numpy,pandas,scikit-learn&perline=14" />
   </a>
 </p>
 
