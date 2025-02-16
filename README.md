@@ -1,9 +1,3 @@
-<div align="left">
-  <a>
-    <img src="https://visitcount.itsvg.in/api?id=SaumayGoel&label=Profile%20Views&color=9&pretty=true" />
-  </a>
-</div>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Saumay</h1></summary>
@@ -25,13 +19,14 @@
       <h2 style="display: inline-block">“Miles To Go Before I Sleep" - Robert Frost</h2>
     </summary>
   </ul>
-</div>
+
+  
 - I'm eager to collaborate on web development projects or Ai/Ml projects.
 
 - Currently i am diving deep in the field of Deep learning.
 
 - 📫 Feel free to reach me out **saumaygoel123@Gmail.com**
-
+</div>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That **I Know / Still Learning👨🏻‍💻**</h2></summary>
