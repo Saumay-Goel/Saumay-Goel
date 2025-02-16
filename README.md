@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/SaumayGoel/SaumayGoel/output/github-contribution-grid-snake-dark.svg)
+
 <hr>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
