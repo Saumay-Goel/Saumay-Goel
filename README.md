@@ -20,7 +20,7 @@
     </summary>
   </ul>
 </div>
-- 🤝 I'm eager to collaborate on web development projects or participate in hackathons/events as a teammate.
+- 🤝 I'm eager to collaborate on web development projects or Ai/Ml projects.
 
 - Currently i am diving deep in the field of Deep learning.
 
@@ -33,7 +33,7 @@
 </div>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,tailwind,express,nodejs,ts,js,firebase,git,github,java,python&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,express,nodejs,ts,js,git,github,java,python, pytorch, numpy, pandas, scikit-learn&perline=14" />
   </a>
 </p>
 
