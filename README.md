@@ -20,7 +20,7 @@
     </summary>
   </ul>
 </div>
-- 🤝 I'm eager to collaborate on web development projects or Ai/Ml projects.
+- I'm eager to collaborate on web development projects or Ai/Ml projects.
 
 - Currently i am diving deep in the field of Deep learning.
 
